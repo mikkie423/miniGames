@@ -1,0 +1,3 @@
+﻿  numGuess.cpp
+D:\Users\270193375\OneDrive - UP Education\Desktop\Michaela O'Brien\miniGames\miniGames\numGuess.cpp(82,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  miniGames.vcxproj -> D:\Users\270193375\OneDrive - UP Education\Desktop\Michaela O'Brien\miniGames\Debug\miniGames.exe
